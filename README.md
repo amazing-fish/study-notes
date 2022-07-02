@@ -40,4 +40,5 @@
 
 #### 7月
 
-- 1 
+- 1 :heavy_check_mark:
+- 2 :heavy_check_mark:
