@@ -43,4 +43,5 @@
 - 1 :heavy_check_mark:
 - 2 :heavy_check_mark:
 - 3-5 :full_moon_with_face:
-- 6 :heavy_check_mark:
+- 6-8 :heavy_check_mark:
+- 9 :heavy_check_mark:
