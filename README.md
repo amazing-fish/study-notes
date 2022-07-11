@@ -35,15 +35,16 @@
 #### 6月
 
 - 26 ❤️‍🩹
-- 27 :heavy_check_mark:
-- 28 :no_mouth:
+- 27 :heavy_check_mark: 
+- 28 :no_mouth: 
 
 #### 7月
 
-- 1 :heavy_check_mark:
-- 2 :heavy_check_mark:
-- 3-5 :full_moon_with_face:
-- 6-8 :heavy_check_mark:
-- 9 :heavy_check_mark:
-- 10 :family_man_boy::broken_heart:
+- 1 :heavy_check_mark: 
+- 2 :heavy_check_mark: 
+- 3-5 :full_moon_with_face: 
+- 6-8 :heavy_check_mark: 
+- 9 :heavy_check_mark: 
+- 10 :family_man_boy::broken_heart: 
+- 11 :heavy_check_mark: 
 
