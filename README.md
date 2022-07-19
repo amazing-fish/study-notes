@@ -49,4 +49,6 @@
 - 11 :heavy_check_mark: 
 - 12-13 :fish::bookmark_tabs::heavy_check_mark: 
 - 14-15 :car::computer::heavy_check_mark: 
-- 16-18 :girl::computer:
+- 16-18 :girl::computer: 
+- 19 :computer: 
+- 20 :heavy_check_mark: 
