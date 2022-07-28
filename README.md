@@ -58,3 +58,5 @@
 - 19 :computer: 
 - 20 :heavy_check_mark: 
 - 21 :heavy_check_mark: 
+- 22-27 :fire::computer: 
+- 28 :green_book::heavy_check_mark: 
